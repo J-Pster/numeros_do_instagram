@@ -1,5 +1,6 @@
 # Seja bem vindo a um dos meus #JokeCodes
 Nesse código vou te ensinar como formatar os números no estilo do **Instagram e Youtube...** usando a **API Global** chamada Intl, para essa bela tarefa!
+[APRENDA MAIS SOBRE A INTL!](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 
 ![Numeros](./numeros.gif)
 
